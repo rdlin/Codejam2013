@@ -1,4 +1,4 @@
 Codejam2013
 ===========
 
-Codejam2013 Solutions
+Some Google Codejam 2013 solutions.
